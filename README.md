@@ -13,7 +13,9 @@
   <a href="https://br.linkedin.com/in/bruno-ian-ortolan-36631a240?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_brunoian_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+  
+    ![Snake animation](https://github.com/BrunoIIan/BrunoIIan/blob/output/github-contribution-grid-snake.svg)
+  
 <div> 
 </div>
 
