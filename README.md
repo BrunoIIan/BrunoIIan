@@ -3,8 +3,9 @@
 Profissional com experiência em sistemas ERP comerciais, atuando inicialmente por 4 anos no suporte técnico especializado, com foco em documentos fiscais eletrônicos (NF-e, NFC-e, NFS-e, CT-e e MDF-e), atendimento ao cliente e treinamentos. Possuo experiência com bancos de dados Firebird e SQL Server, além de processos de conversão de dados. Atualmente atuo na área de desenvolvimento, trabalhando na manutenção e evolução do sistema em Delphi 7 e Delphi 10, bem como no desenvolvimento de relatórios utilizando FastReport.
 
 ---
-
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
 </div>
