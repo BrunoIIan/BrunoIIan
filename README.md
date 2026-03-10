@@ -19,7 +19,7 @@ Profissional com experiência em sistemas ERP comerciais, atuando inicialmente p
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/BrunoIIan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoIIan&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoIIan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>  
