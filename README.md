@@ -1,5 +1,7 @@
 # 🧑‍💻 Bruno Ian Ortolan
 
+Profissional com experiência em sistemas ERP comerciais, atuando inicialmente por 4 anos no suporte técnico especializado, com foco em documentos fiscais eletrônicos (NF-e, NFC-e, NFS-e, CT-e e MDF-e), atendimento ao cliente e treinamentos. Possuo experiência com bancos de dados Firebird e SQL Server, além de processos de conversão de dados. Atualmente atuo na área de desenvolvimento, trabalhando na manutenção e evolução do sistema em Delphi 7 e Delphi 10, bem como no desenvolvimento de relatórios utilizando FastReport.
+
 <div align="center">
   <a href="https://github.com/BrunoIIan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoIIan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
