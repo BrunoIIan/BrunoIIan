@@ -14,10 +14,11 @@ Profissional com experiência em sistemas ERP comerciais, atuando inicialmente p
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
 </div>
 
+---
+
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/BrunoIIan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoIIan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoIIan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
